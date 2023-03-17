@@ -1,4 +1,4 @@
-#Cinema Management
+# Cinema Management
 
 Cinema management este un proiect pentru facultate construit in limbajul de programare Python. Reprezinta o modalitate de a gestiona filmele, clientii si rezervarile la un film pentru un cinema. In acest proiect sunt aprofundate diferite functionalitati printre care:
 
