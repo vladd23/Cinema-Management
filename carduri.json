@@ -1,0 +1,52 @@
+{
+  "2": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "2",
+    "numeClient": "Pop",
+    "prenumeClient": "Andrei",
+    "CNPClient": "1234567891012",
+    "dataNasterii": "23.02.2002",
+    "dataInregistrarii": "25.12.2021",
+    "puncteClient": 2.0
+  },
+  "9": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "9",
+    "numeClient": "Pop",
+    "prenumeClient": "Vlad",
+    "CNPClient": "1234567858745",
+    "dataNasterii": "12.02.2003",
+    "dataInregistrarii": "15.09.2015",
+    "puncteClient": 7.0
+  },
+  "3": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "3",
+    "numeClient": "Stelea",
+    "prenumeClient": "Marius",
+    "CNPClient": "7777777777777",
+    "dataNasterii": "15.07.1980",
+    "dataInregistrarii": "24.10.2010",
+    "puncteClient": 2.5
+  },
+  "10": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "10",
+    "numeClient": "da",
+    "prenumeClient": "da",
+    "CNPClient": "5555555555555",
+    "dataNasterii": "12.12.2000",
+    "dataInregistrarii": "10.06.2010",
+    "puncteClient": 0
+  },
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "1",
+    "numeClient": "piturca",
+    "prenumeClient": "victor",
+    "CNPClient": "1111111111111",
+    "dataNasterii": "23.06.1970",
+    "dataInregistrarii": "14.05.2015",
+    "puncteClient": 33.5
+  }
+}

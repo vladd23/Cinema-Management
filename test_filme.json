@@ -1,0 +1,26 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "1",
+    "titluFilm": "Titanic",
+    "anFilm": "2002",
+    "pretFilm": 34,
+    "program": "da"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "2",
+    "titluFilm": "Film2",
+    "anFilm": "2002",
+    "pretFilm": 36,
+    "program": "da"
+  },
+  "3": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "3",
+    "titluFilm": "Harry Potter",
+    "anFilm": "2002",
+    "pretFilm": 34,
+    "program": "da"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "3": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "3",
+    "idFilm": "1",
+    "idCardClient": "1",
+    "dataRezervare": "15.12.2002",
+    "oraRezervare": "14:30"
+  },
+  "2": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "2",
+    "idFilm": "1",
+    "idCardClient": "1",
+    "dataRezervare": "12.12.2001",
+    "oraRezervare": "15:30"
+  },
+  "1": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "1",
+    "idFilm": "1",
+    "idCardClient": "1",
+    "dataRezervare": "12.12.2000",
+    "oraRezervare": "15:30"
+  }
+}

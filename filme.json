@@ -1,0 +1,42 @@
+{
+  "2": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "2",
+    "titluFilm": "Ceva",
+    "anFilm": "2019",
+    "pretFilm": 45.0,
+    "program": "da"
+  },
+  "1": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "1",
+    "titluFilm": "Titanic",
+    "anFilm": "2010",
+    "pretFilm": 35.0,
+    "program": "da"
+  },
+  "3": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "3",
+    "titluFilm": "Filmulet",
+    "anFilm": "2023",
+    "pretFilm": 34.0,
+    "program": "da"
+  },
+  "3148": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "3148",
+    "titluFilm": "Dogville",
+    "anFilm": 1996,
+    "pretFilm": 31,
+    "program": "nu"
+  },
+  "98459": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "98459",
+    "titluFilm": "Death Note",
+    "anFilm": 1996,
+    "pretFilm": 41,
+    "program": "nu"
+  }
+}

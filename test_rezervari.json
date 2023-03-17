@@ -1,0 +1,50 @@
+{
+  "1": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "1",
+    "idFilm": "1",
+    "idCardClient": "1",
+    "dataRezervare": "15.12.2021",
+    "oraRezervare": "15:50"
+  },
+  "2": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "2",
+    "idFilm": "2",
+    "idCardClient": "2",
+    "dataRezervare": "10.11.2021",
+    "oraRezervare": "11:30"
+  },
+  "3": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "3",
+    "idFilm": "3",
+    "idCardClient": "2",
+    "dataRezervare": "16.10.2021",
+    "oraRezervare": "09:20"
+  },
+  "4": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "4",
+    "idFilm": "1",
+    "idCardClient": "1",
+    "dataRezervare": "10.12.2021",
+    "oraRezervare": "13:30"
+  },
+  "5": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "5",
+    "idFilm": "1",
+    "idCardClient": "1",
+    "dataRezervare": "12.10.2020",
+    "oraRezervare": "14:40"
+  },
+  "6": {
+    "py/object": "Domain.rezervare.Rezervare",
+    "idEntitate": "6",
+    "idFilm": "2",
+    "idCardClient": "2",
+    "dataRezervare": "16.03.2021",
+    "oraRezervare": "06:20"
+  }
+}
